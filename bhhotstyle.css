@@ -1,0 +1,44 @@
+.brandcolor{
+  color: white;
+}
+.nav1{
+  color: white;
+}
+.nav2{
+  color: rgba(5, 51, 73, 0.329);
+}
+.navradius{
+  border-radius:25px;
+}
+.backcolor{
+  background-color: lemonchiffon;
+}
+.slide{
+  height: 500px;
+  border-radius: 25px;
+}
+.text{
+  font-size: 43px;
+    animation: revert;
+    font-weight: bold;
+    font-family: fangsong;
+    color: #ffffff;
+}
+.text2{
+  font-size: 25px;
+    animation: revert;
+    font-weight: bold;
+    font-family: fangsong;
+    color: #ffffff;
+}
+.height{
+  height: 296px;
+}
+
+.height2{
+  height: 226px;
+}
+.borderf{
+  margin-top: 60px;
+}
+
